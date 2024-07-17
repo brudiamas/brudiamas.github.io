@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brudiamas.github.io/sitemap
+Sitemap: https://brudiamas.github.io/app/sitemap
+Sitemap: https://brudiamas.github.io/assets/sitemap
+Sitemap: https://brudiamas.github.io/css/sitemap
+Sitemap: https://brudiamas.github.io/includes/sitemap
+Sitemap: https://brudiamas.github.io/item/sitemap
+Sitemap: https://brudiamas.github.io/src/sitemap
